@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Javo04ctrl.github.io/Javo04ctrl.github.io/sitemap.xml
